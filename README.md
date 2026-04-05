@@ -17,16 +17,6 @@ A single-page web tool to parse and analyze Cisco-style network configurations (
 
 A single-page web tool to parse and analyze Cisco-style network configurations (IOS / IOS-XE / NX-OS), then present results in searchable tables, visual maps, audits, and version inventory.
 
-## What This Tool Does
-
-- Parses raw router/switch configuration text from multiple devices
-- Builds VLAN, interface, and static-route views
-- Maps VLAN-to-router relationships and IP reachability
-- Shows visual draggable relationship graphs
-- Audits credential and security posture issues
-- Collects and summarizes device version evidence
-- Supports tab-scoped export and print
-
 ## Tab Guide with Screenshots
 
 All screenshots below are captured from the live tool interface using the included sample configs:
